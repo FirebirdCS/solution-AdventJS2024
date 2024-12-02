@@ -20,9 +20,7 @@ Example of how it works:
 
 ```bash
 
-createFrame(['midu',  'madeval',  'educalvolpz'])
-
-  
+createFrame(['midu',  'madeval',  'educalvolpz'])  
 
 //  Expected  result:
 
@@ -34,11 +32,8 @@ createFrame(['midu',  'madeval',  'educalvolpz'])
 * educalvolpz *
 ***************
 
-  
 
 createFrame(['midu'])
-
-  
 
 //  Expected  result:
 
@@ -50,8 +45,6 @@ createFrame(['midu'])
 
 createFrame(['a',  'bb',  'ccc'])
 
-  
-
 //  Expected  result:
 
 *******
@@ -61,7 +54,3 @@ createFrame(['a',  'bb',  'ccc'])
 
 * ccc *
 *******
-
-  
-
-createFrame(['a',  'bb',  'ccc',  'dddd'])
